@@ -1,3 +1,7 @@
+#build environments
+.idea/
+.vscode/
+
 # Logs
 logs
 *.log
